@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Sergey</a> </h1>
-<h3 align="center">Computer science student and IT news writer</h3>
+<h3 align="center">Software Engineer</h3>
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **freddykru@gmail.com**
 
-- 🌍 I speak Russian (native), English (B2)
+- 🌍 I speak Russian
 
 ### Connect with me:
 <p align="left">
