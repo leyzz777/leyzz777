@@ -1,12 +1,12 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> </h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
 
-- 🌱 I’m currently learning **Swift, Python, Web**
+- 🌱 I’m currently learning **Linux, Python, Web**
 
-- 📫 How to reach me **daniilshstukhin@gmail.com**
+- 📫 How to reach me **freddykru@gmail.com**
 
 - 🌍 I speak Russian (native), English (B2)
 
