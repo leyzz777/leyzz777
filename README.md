@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Sergey</a> </h1>
 <h3 align="center">Software Engineer</h3>
 
-[![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
+[![codewars](https://www.codewars.com/users/sergeyauf/badges/small)](https://www.codewars.com/users/daniilshat)  
 
 
 - 🔥 Skills: PYTHON / LINUX / SQL / BASH / JENKINS
