@@ -4,7 +4,8 @@
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
 
-- 🌱 I’m currently learning **Linux, Python, Web**
+- 🌱 Skills: PYTHON / LINUX / SQL / BASH / JENKINS
+
 
 - 🌍 I speak Russian
 
