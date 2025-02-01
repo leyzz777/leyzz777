@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Linux, Python, Web**
 
-- 📫 How to reach me **freddykru@gmail.com**
-
 - 🌍 I speak Russian
 
 ### Connect with me:
