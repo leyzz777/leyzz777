@@ -31,6 +31,4 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Jupyter.svg"
 </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/leyzz777)  
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=leyzz777)](https://github.com/ryo-ma/github-profile-trophy)
