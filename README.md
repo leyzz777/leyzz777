@@ -3,12 +3,23 @@
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
 
-
-- 🔥 Skills: PYTHON / LINUX / SQL / BASH / JENKINS
-
-
-- 🌍 I speak Russian
-
+```yaml
+name: Sergey
+location: Russia/Moscow
+job: Software Engineer (Python/Go)
+Skills:
+  - Linux
+  - Python
+  - Go
+  - Docker
+  - Podman
+  - Bash
+  - Jenkins
+hobbies:
+  - Gaming
+  - Cooking
+  - Music
+```
 
 ### Connect with me:
 <p align="left">
